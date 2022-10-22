@@ -1,0 +1,39 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.flexible-container {
+    display: flex;
+}
+
+.color-orenge {
+    color: orange;
+}
+
+.half-width-top-left {
+    width: 50%;
+    padding: 5%;
+    margin-top: 100px;
+
+}
+
+.half-width-top-right img {
+    width: 100%;
+}
+
+.half-width-top-left h1 {
+    font-size: 50px;
+    color: rgb(95, 93, 93);
+}
+
+.half-width-top-left p {
+    color: rgb(95, 93, 93);
+}
+
+.half-width-mid-right {
+    width: 50%;
+}
+
+.half-width-mid-right img {
+    width: 50%;
+}
